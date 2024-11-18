@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ulvir\\source\\repos\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0428E0-7074-43AA-A882-CF282D49A442}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\ulvir\\source\\repos\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0428E0-7074-43AA-A882-CF282D49A442}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0428E0-7074-43AA-A882-CF282D49A442}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\ulvir\\source\\repos\\consoleapp3\\consoleapp3\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0428E0-7074-43AA-A882-CF282D49A442}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0428E0-7074-43AA-A882-CF282D49A442}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\ulvir\\source\\repos\\consoleapp3\\consoleapp3\\models\\hotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0428E0-7074-43AA-A882-CF282D49A442}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\models\\hotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0428E0-7074-43AA-A882-CF282D49A442}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\ulvir\\source\\repos\\consoleapp3\\consoleapp3\\models\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0428E0-7074-43AA-A882-CF282D49A442}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\models\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\source\\repos\\ConsoleApp3\\ConsoleApp3\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ulvir\\source\\repos\\ConsoleApp3\\ConsoleApp3\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ConsoleApp3\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:35:44.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rooms.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Models\\Rooms.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Models\\Rooms.cs",
+              "ToolTip": "C:\\Users\\ulvir\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Models\\Rooms.cs",
+              "RelativeToolTip": "ConsoleApp3\\Models\\Rooms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:28:43.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hotels.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Models\\Hotels.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Models\\Hotels.cs",
+              "ToolTip": "C:\\Users\\ulvir\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Models\\Hotels.cs",
+              "RelativeToolTip": "ConsoleApp3\\Models\\Hotels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:28:34.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\ulvir\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:27:18.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
